@@ -19,4 +19,4 @@ The following required functionality is completed:
 
 **GIF Walkthrough**
 
-https://cloud.githubusercontent.com/assets/19499117/16103651/2bfc09f2-332f-11e6-9caf-19a0fd1eb962.gif
+![Demo](https://cloud.githubusercontent.com/assets/19499117/16103651/2bfc09f2-332f-11e6-9caf-19a0fd1eb962.gif)
